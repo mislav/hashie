@@ -6,4 +6,5 @@ module Hashie
   autoload :Mash, 'hashie/mash'
   autoload :Dash, 'hashie/dash'
   autoload :Clash, 'hashie/clash'
+  autoload :Rash, 'hashie/rash'
 end
